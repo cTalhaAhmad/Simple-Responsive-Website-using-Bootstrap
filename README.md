@@ -1,2 +1,2 @@
 # webAsg2
-ctalhaahmad.netlify.app
+webasg2.netlify.app
