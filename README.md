@@ -1,2 +1,3 @@
-# webAsg2
-webasg2.netlify.app
+# simple-responsive-website-using-bootstrap
+
+simple-responsive-website-using-bootstrap.netlify.app
